@@ -3,3 +3,7 @@ Netflix Landing Page Clone
 [Live Demo](https://tadumm.netlify.app/)
 
 ![](images/netflix.png)
+![](images/n-1.jpg)
+![](images/n-2.jpg)
+![](images/n-3.jpg)
+
